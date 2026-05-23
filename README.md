@@ -59,7 +59,7 @@
 ### 1. Клонировать репозиторий
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/teyuboglu1/VKR_2026_MMiII_Eyuboglu_NPIbd-01-22.git
 cd restaurant-analytics-ml
 ```
 
